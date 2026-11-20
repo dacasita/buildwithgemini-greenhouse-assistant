@@ -4,7 +4,9 @@ An intelligent, multimodal botanical and greenhouse management agent built with 
 
 ![Greenhouse Assistant Demo](demo.gif)
 
-> 📹 **Watch Full HD Video with Lo-Fi Music:** [Download / View greenhouse_demo.webm](greenhouse_demo.webm) or [Stream Online](https://storage.googleapis.com/greenhouse-assistant-media-qwiklabs-gcp-03-144fb6d3227f/greenhouse_demo.webm)
+> 📹 **Watch Full Demo Video (with Lo-Fi Music):**
+> - 🎬 **[Watch / Play greenhouse_demo.mp4](greenhouse_demo.mp4)** *(Plays natively on GitHub!)*
+> - 📼 **[Download greenhouse_demo.webm](greenhouse_demo.webm)**
 
 ---
 
